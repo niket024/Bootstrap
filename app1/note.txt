@@ -1,0 +1,71 @@
+Bootstrap 4 
+===========
+It is the newest version of Bootstrap, which is the most popular HTML, 
+CSS, and JavaScript framework for developing responsive, 
+mobile-first websites.
+
+Bootstrap 3 vs. Bootstrap 4
+===========================
+Bootstrap 4 is the newest version of Bootstrap; with new components, 
+faster stylesheet and more responsiveness.
+
+Bootstrap 4 supports the latest, stable releases of all major browsers and platforms. 
+However, 
+Internet Explorer 9 and down is not supported.
+
+What is Bootstrap?
+===================
+Bootstrap is a free front-end framework for faster and easier web development
+Bootstrap includes HTML and CSS based design templates for typography, forms, 
+buttons, tables, navigation, modals, 
+image carousels and many other, as well as optional JavaScript plugins
+Bootstrap also gives you the ability to easily create responsive designs
+
+What is Responsive Web Design?
+============================
+Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, 
+from small phones to large desktops.
+
+Why Use Bootstrap?
+===================
+Advantages of Bootstrap:
+
+Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap
+Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops
+Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework
+Browser compatibility: Bootstrap 4 is compatible with all modern browsers 
+(Chrome, Firefox, Internet Explorer 10+, Edge, Safari, and Opera)
+
+Where to Get Bootstrap 4?
+==============================
+There are two ways to start using Bootstrap 4 on your own web site.
+
+You can:
+
+Include Bootstrap 4 from a CDN
+Download Bootstrap 4 from getbootstrap.com
+
+
+Bootstrap 4 CDN
+======================
+If you don't want to download and host Bootstrap 4 yourself, you can include it from a CDN (Content Delivery Network).
+
+MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
+
+MaxCDN:
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+Downloading Bootstrap 4
+=======================
+If you want to download and host Bootstrap 4 yourself, go to https://getbootstrap.com/, and follow the instructions there.
+
